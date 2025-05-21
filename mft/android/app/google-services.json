@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236402749405",
+    "project_id": "mftbudgetplan",
+    "storage_bucket": "mftbudgetplan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236402749405:android:8a5e18c6b85e48103c1034",
+        "android_client_info": {
+          "package_name": "com.example.mft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWs0kx81iPrR9jAilXMHo-yEoTtGdKLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
