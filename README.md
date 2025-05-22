@@ -81,6 +81,7 @@ A modern, user-friendly mobile app to help you manage your finances, track your 
 1. **Clone the repository:**
   
    git clone https://github.com/Achinisaubhagya/Final_Project.git
+   
    cd mft
 
 2. **Install dependencies:**
