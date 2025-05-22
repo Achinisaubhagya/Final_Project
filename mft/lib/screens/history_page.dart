@@ -192,7 +192,7 @@ class _HistoryPageState extends State<HistoryPage> {
   Widget _buildPieChart(double income, double expense) {
     final total = income + expense;
     if (total == 0)
-      return const Text("No data available to display pie chart.");
+     return const Text("No data available to display pie chart.");
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -240,7 +240,7 @@ class _HistoryPageState extends State<HistoryPage> {
   }
 
   Widget _buildBarChart(double income, double expense) {
-    const fixedMaxY = 90000.0; // Fixed maxY to 90000
+    const fixedMaxY = 90000.0;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,

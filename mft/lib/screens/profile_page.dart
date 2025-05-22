@@ -38,7 +38,7 @@ class ProfilePage extends StatelessWidget {
 
           final data = snapshot.data!.data() as Map<String, dynamic>;
 
-          final name = data['fullName'] ?? ''; // ✅ fixed key here
+          final name = data['fullName'] ?? ''; //
           final email = data['email'] ?? '';
           final phone = data['phone'] ?? '';
           final address = data['address'] ?? '';

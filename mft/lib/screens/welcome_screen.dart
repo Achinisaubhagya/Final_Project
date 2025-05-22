@@ -39,7 +39,7 @@ class WelcomeScreen extends StatelessWidget {
               Container(
                 height: 220,
                 child: Image.asset(
-                  'assets/images/welcome image.png', // Put your image in assets/images
+                  'assets/images/welcome image.png', 
                   fit: BoxFit.contain,
                 ),
               ),
