@@ -80,9 +80,8 @@ A modern, user-friendly mobile app to help you manage your finances, track your 
 
 1. **Clone the repository:**
   
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-   
+   git clone https://github.com/Achinisaubhagya/Final_Project.git
+   cd mft
 
 2. **Install dependencies:**
  
@@ -97,10 +96,3 @@ A modern, user-friendly mobile app to help you manage your finances, track your 
    
    flutter run
   
-
-
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
